@@ -2,7 +2,7 @@
   "name": "reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://siddheshJungade.github.io/",
+  "homepage": "https://siddheshjungade.github.io/portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
