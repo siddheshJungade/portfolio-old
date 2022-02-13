@@ -1,0 +1,21 @@
+.footer {
+    text-align: center;
+    margin: 3em;
+}
+.text-center {
+    margin-top: 40px
+}
+h2 {
+    margin: 0;
+}
+
+.footer-text{
+    margin-bottom: 20px;
+}
+
+.bmc {
+    color: #ffa500;
+}
+.bmc:hover {
+    color: #ffa500;
+}

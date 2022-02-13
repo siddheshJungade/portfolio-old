@@ -1,0 +1,24 @@
+.display-4 {
+    font-size: 4em;
+}
+
+.bold-text {
+    font-size: 5em;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    text-transform: uppercase;
+    font-weight: 700 !important;
+    color: rgba(0, 0, 0, 0.089);
+}
+
+.title {
+    margin-bottom: 4rem;
+}
+
+@media screen and (max-width:1180px){
+    .bold-text{
+        display: none;
+    }
+}

@@ -1,0 +1,12 @@
+.social {
+    display: inline-block;
+}
+
+.social__item i{
+    margin-right: 1.5rem;
+}
+
+
+.social__item {
+    color: Dodgerblue;
+}

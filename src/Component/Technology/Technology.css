@@ -1,0 +1,24 @@
+
+.technology {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    justify-content: center;
+
+}
+
+
+
+@media screen and (max-width:1180px){
+    .technology {
+        grid-template-columns: repeat(2,auto);
+    }
+}
+
+
+
+@media screen and (max-width:800px){
+    .technology {
+        grid-template-columns: repeat(1,auto);
+    }
+}

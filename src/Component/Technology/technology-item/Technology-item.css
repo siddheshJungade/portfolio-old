@@ -1,0 +1,14 @@
+
+.grid-item {
+    display: flex;
+    width: 20em;
+}
+.grid-item img {
+    margin: 20px;
+    height: 2rem;
+    width: 2rem;
+} 
+.grid-item p {
+    align-self: center;
+    margin: 10px;
+}
