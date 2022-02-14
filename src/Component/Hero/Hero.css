@@ -44,5 +44,6 @@ a {
     .profile-img img {
         max-width: 100%;
         height: auto;
+        margin-bottom: 5vh;
     }
 }
