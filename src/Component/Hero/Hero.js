@@ -5,7 +5,7 @@ const Hero = () => {
         <div>
             <nav className="nav-bar">
                 <div className="nav-bar-title">
-                    <a rel='noreferrer' href="https://drive.google.com/file/d/1V8_2JihbsDJhaYHtAVpcepa7C7jezLxw/view" target="_blank">Resume</a>
+                    <a rel='noreferrer' href="https://drive.google.com/file/d/1FfD1IMPIIHjRcMuRxd2ddGbyjDJ-PfpH/view" target="_blank">Resume</a>
                 </div>
             </nav>
             <section className="landing">
