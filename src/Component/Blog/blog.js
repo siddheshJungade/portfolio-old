@@ -8,7 +8,8 @@ const query = `
         publication {
           posts{
             title
-            coverImage
+            coverImage,
+            slug
           }
         }
       }
