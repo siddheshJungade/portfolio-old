@@ -6,9 +6,10 @@
     },
     {
         "id": "2",
-        "url": "./Asset/docker.png",
-        "title": "Docker"
+        "url": "./Asset/javascript.png",
+        "title": "JavaScript"
     },
+
     {
         "id": "3",
         "url": "./Asset/java.png",
@@ -20,10 +21,11 @@
         "title": "Python"
 
     },
+
     {
         "id": "5",
-        "url": "./Asset/javascript.png",
-        "title": "JavaScript"
+        "url": "./Asset/docker.png",
+        "title": "Docker"
     },
     {
         "id": "6",
@@ -40,5 +42,25 @@
         "id": "8",
         "url": "./Asset/react.png",
         "title": "React"
+    },
+    {
+        "id": "9",
+        "url": "./Asset/linux.png",
+        "title": "Linux"
+    },
+    {
+        "id": "8",
+        "url": "./Asset/mongoDb.png",
+        "title": "MongoDB"
+    }
+    ,    {
+        "id": "8",
+        "url": "./Asset/mysql.png",
+        "title": "MySQL"
+    },
+    {
+        "id": "8",
+        "url": "./Asset/psql.png",
+        "title": "PostgresSQL"
     }
 ]
