@@ -4,7 +4,7 @@ import './blog-item.css'
 const BlogItem = ({ ...post }) => {
     
     return (
-        <a href={`https://brothepro.hashnode.dev/${post.slug}`} target="_blank" rel="noreferrer" >
+        <a href={`https://siddheshjungade.hashnode.dev/${post.slug}`} target="_blank" rel="noreferrer" >
         <div className="blog-item">
             <img className='blog-image' src={post.coverImage} alt="id"></img>
             <div className="blog-container">
